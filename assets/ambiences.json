@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Forest Focus",
+    "tag": "Focus",
+    "duration": 120,
+    "image": "assets/images/sample.png",
+    "audio": "audio/sample.mp3",
+    "description": "Gentle forest sounds to help you focus.",
+    "sensory": ["Breeze", "Mist", "Soft Rain"]
+  },
+  {
+    "id": "2",
+    "title": "Calm Ocean",
+    "tag": "Calm",
+    "duration": 150,
+    "image": "assets/images/sample.png",
+    "audio": "audio/sample.mp3",
+    "description": "Relax with peaceful ocean waves.",
+    "sensory": ["Waves", "Wind", "Warm Light"]
+  },
+  {
+    "id": "3",
+    "title": "Deep Sleep",
+    "tag": "Sleep",
+    "duration": 180,
+    "image": "assets/images/sample.png",
+    "audio": "audio/sample.mp3",
+    "description": "Slow ambient tones for deep rest.",
+    "sensory": ["Dark", "Stillness", "Soft Tone"]
+  },
+  {
+    "id": "4",
+    "title": "Morning Reset",
+    "tag": "Reset",
+    "duration": 120,
+    "image": "assets/images/sample.png",
+    "audio": "audio/sample.mp3",
+    "description": "Start fresh with light ambient sounds.",
+    "sensory": ["Light", "Air", "Birds"]
+  },
+  {
+    "id": "5",
+    "title": "Rain Focus",
+    "tag": "Focus",
+    "duration": 140,
+    "image": "assets/images/sample.png",
+    "audio": "audio/sample.mp3",
+    "description": "Soft rain for concentration.",
+    "sensory": ["Rain", "Cool Air", "Drops"]
+  },
+  {
+    "id": "6",
+    "title": "Evening Calm",
+    "tag": "Calm",
+    "duration": 160,
+    "image": "assets/images/sample.png",
+    "audio": "audio/sample.mp3",
+    "description": "Wind down your evening peacefully.",
+    "sensory": ["Warm Light", "Breeze", "Quiet"]
+  }
+]
