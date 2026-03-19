@@ -45,9 +45,11 @@ A modern **Flutter-based ambience & relaxation app** designed to help users focu
 <h2 align="center">📱 App Preview</h2>
 
 <p align="center">
- <img src="png1.jpg" width="250">
- <img src="png2.jpg" width="250">
- <img src="png3.jpg" width="250">
+  <img src="png1.jpg" width="250">
+ 
+  <img src="png2.jpg" width="250">
+ 
+  <img src="png3.jpg" width="250">
 </p>
 
 ## 📁 Project Structure
