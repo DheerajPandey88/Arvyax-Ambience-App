@@ -45,12 +45,11 @@ A modern **Flutter-based ambience & relaxation app** designed to help users focu
 <h2 align="center">📱 App Preview</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DheerajPandey88/Arvyax-Ambience-App/b48fa8127df518dbaa7ba173a6b88194ddd39dce/png1.jpeg" width="270">
+  <img src="https://raw.githubusercontent.com/DheerajPandey88/Arvyax-Ambience-App/b48fa8127df518dbaa7ba173a6b88194ddd39dce/png1.jpeg" width="250">
  
   <img src="https://raw.githubusercontent.com/DheerajPandey88/Arvyax-Ambience-App/b48fa8127df518dbaa7ba173a6b88194ddd39dce/png2.jpeg" width="250">
  
   <img src="https://raw.githubusercontent.com/DheerajPandey88/Arvyax-Ambience-App/b48fa8127df518dbaa7ba173a6b88194ddd39dce/png3.jpeg" width="250">
-
   <img src="https://raw.githubusercontent.com/DheerajPandey88/Arvyax-Ambience-App/b48fa8127df518dbaa7ba173a6b88194ddd39dce/png4.jpeg" width="250">
 </p>
 
