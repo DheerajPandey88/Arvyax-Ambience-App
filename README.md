@@ -14,7 +14,7 @@ A modern **Flutter-based ambience & relaxation app** designed to help users focu
 
 * 🧘 **Session Player**
 
-  * Play / Pause / Resume functionality
+  * Play / Pause / Resume functionality  
   * Real-time progress tracking
   * Auto session completion
 
