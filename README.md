@@ -9,7 +9,7 @@ A modern **Flutter-based ambience & relaxation app** designed to help users focu
 
 * 🎵 **Ambient Audio Sessions**
 
-  * Forest, Rain, Ocean, Sleep sounds
+  * Forest, Rain, Ocean, Sleep sounds 
   * Looping background audio using `audioplayers`
 
 * 🧘 **Session Player**
