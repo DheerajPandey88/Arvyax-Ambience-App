@@ -20,13 +20,13 @@ A modern **Flutter-based ambience & relaxation app** designed to help users focu
 
 * 🌄 **Modern UI**
 
-  * Clean & minimal design
+  * Clean & minimal design. 
   * Gradient-based theme
   * Smooth navigation
 
 * 🔍 **Search & Filter**
 
-  * Search ambiences by name
+  * Search ambiences by name. 
   * Filter using tags (Focus, Calm, Sleep, Reset)
 
 * 📓 **Journal / Reflection**
